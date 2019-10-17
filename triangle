@@ -1,0 +1,5 @@
+input side
+input hight
+area=0.5*side*hight
+print area
+end
