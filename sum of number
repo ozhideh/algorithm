@@ -1,0 +1,7 @@
+n=1
+sum=0
+sum=sum+n
+if n=100 print sum
+end
+n=n+1
+goto 3
