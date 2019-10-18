@@ -1,5 +1,5 @@
-input x=celsius;
-input y=fahrenheit;
-x=5/9*(y-32)
-print x;
+input c=celsius;
+input f=fahrenheit;
+c=5/9*(f-32)
+print f;
 end
