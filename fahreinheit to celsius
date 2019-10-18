@@ -1,0 +1,5 @@
+input x=fahreinheit;
+input y=celsius;
+x=(1.8*y)+32
+print x
+end
