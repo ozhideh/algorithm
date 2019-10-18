@@ -1,5 +1,5 @@
-input x=fahreinheit;
-input y=celsius;
-x=(1.8*y)+32
-print x
+input f=fahreinheit;
+input c=celsius;
+f=(1.8*c)+32
+print f
 end
