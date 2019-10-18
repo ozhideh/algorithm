@@ -1,0 +1,4 @@
+input x=kg;
+input y=pound;
+y/0.454=x;
+print x
