@@ -1,0 +1,4 @@
+input x= pound;
+input y= kilograms;
+x /2.2046= y
+print y
